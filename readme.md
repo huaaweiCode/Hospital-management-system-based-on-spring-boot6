@@ -1,10 +1,5 @@
+
 # 基于springboot的医院管理系统
-
-## 获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ：**医院6** ，获取完整版源码
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -35,49 +30,41 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262318487.jpg)
+![登录](https://img-blog.csdnimg.cn/img_convert/8bc8bf090483f093e06574a2a8f3ca11.jpeg)
 
 ### 4.2 门诊模块
 
-![门诊管理-功能列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262319483.jpg)
+![门诊管理-功能列表](https://img-blog.csdnimg.cn/img_convert/5ae1e8829ada900bf1db0ce0b50e6138.jpeg)
 
 ### 4.3 管理员模块
 
-![超级管理员-用户挂号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262319650.jpg)
+![超级管理员-用户挂号](https://img-blog.csdnimg.cn/img_convert/0b9f5d0ad80589fde70a40f4956b764a.jpeg)
 
-![超级管理员-项目缴费](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262319938.jpg)
+![超级管理员-项目缴费](https://img-blog.csdnimg.cn/img_convert/fc7ffe1e99df0abae57f69ebbb11fc2e.jpeg)
 
-![超级管理员-项目检查](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262319957.jpg)
+![超级管理员-项目检查](https://img-blog.csdnimg.cn/img_convert/39c127b8f6ee0567c7cd1e411387e94b.jpeg)
 
-![超级管理员-缴费](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262319170.jpg)
+![超级管理员-缴费](https://img-blog.csdnimg.cn/img_convert/088c0b5f1b4b0d4ce0ebf52a3b367c8a.jpeg)
 
-![超级管理员-门诊患者库](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262319628.jpg)
+![超级管理员-门诊患者库](https://img-blog.csdnimg.cn/img_convert/3ea001fb0b1426e73795aef066ab0178.jpeg)
 
-![超级管理员-入院登记](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262319206.jpg)
+![超级管理员-入院登记](https://img-blog.csdnimg.cn/img_convert/648dbe78092f16d11c924ef5b3378f59.jpeg)
 
-![超级管理员-缴费管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262319528.jpg)
+![超级管理员-缴费管理](https://img-blog.csdnimg.cn/img_convert/9036184638b0b0b30dbd8c3c5c76ee8a.jpeg)
 
-![超级管理员-出院结算](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262319066.jpg)
+![超级管理员-出院结算](https://img-blog.csdnimg.cn/img_convert/a007147e575b31ab20f1334153ff94c7.jpeg)
 
-![超级管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262319110.jpg)
+![超级管理员-用户管理](https://img-blog.csdnimg.cn/img_convert/05ceb92b7a98ca6200f5973fb611d180.jpeg)
 
-![超级管理员-取药管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262319326.jpg)
+![超级管理员-取药管理](https://img-blog.csdnimg.cn/img_convert/dd048f821e187e0324d5beb10528bc78.jpeg)
 
-![超级管理员-记账 ](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262319409.jpg)
+![超级管理员-记账 ](https://img-blog.csdnimg.cn/img_convert/a4dd12380dc783ef00044f2285c65c0a.jpeg)
 
 ### 4.4 文档目录
 
-![设计文档报告](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262318339.jpg)
+![设计文档报告](https://img-blog.csdnimg.cn/img_convert/790fee76011690add22320c1ff200247.jpeg)
+### 获取方式&视频演示
 
-## 5、视频演示
+下方扫一下，回复关键词：**医院**
 
-[点击播放视频，视频位于文章最后](输入链接)
-
-## 6、获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ：**医院6** ，获取完整版源码
-
-
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+![gitee](https://img-blog.csdnimg.cn/img_convert/1c1cc631cfc7fe823c3a4078670e64e3.png)
